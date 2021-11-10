@@ -27,7 +27,7 @@ const Hero = () => {
                 ¡Hola a todos!
               </Typography>
               <Typography variant="h2" color="white" gutterBottom>
-                Soy Jeisson Villamarin
+                Soy Jeisson Villamarin!
               </Typography>
               <Typography variant="h4" color={grey[500]}>
                 Developer que le encanta implementar diseños que inspiran y
