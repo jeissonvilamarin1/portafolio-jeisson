@@ -13,6 +13,7 @@ function App() {
       <Hero />
       <Projects />
       <Services />
+      <Services />
     </ThemeProvider>
   );
 }
